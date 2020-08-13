@@ -1,8 +1,8 @@
 #include<iostream>
 #include<fstream>
-#include<tesseract/baseapi.h>
-#include<leptonica/allheaders.h>
-#include <tesseract/renderer.h>
+#include "tesseract/baseapi.h"
+#include "leptonica/allheaders.h"
+#include "tesseract/renderer.h"
 using namespace std;
 using namespace tesseract;
 int main(int argc,char* args[]){
