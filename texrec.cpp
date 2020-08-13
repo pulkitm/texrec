@@ -1,3 +1,5 @@
+/*Credits : Google for tesseract and pre trained data (tessdata)*/
+
 #include<iostream>
 #include<fstream>
 #include<tesseract/baseapi.h>
